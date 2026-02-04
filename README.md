@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi 👋, I'm Harshith
 
-<!--
-**harshith-coder/harshith-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BTech Student | 💻 Aspiring Software Engineer | 🚀 Tech & Startup Enthusiast  
 
-Here are some ideas to get you started:
+I’m passionate about building efficient software, learning core CS concepts,  
+and exploring areas like **Backend Development, DSA, and Hardware-Software Design**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Tech Stack
+- **Languages:** Python, Java, C  
+- **Core CS:** Data Structures & Algorithms, OOP, DBMS  
+- **Hardware/HDL:** Verilog HDL  
+- **Tools:** Git, GitHub, VS Code  
+
+---
+
+## 📌 Projects
+### 🔹 16-bit RISC Processor
+- Designed and implemented a custom RISC architecture using **Verilog HDL**
+- Focused on instruction execution, control unit, and datapath design
+
+### 🔹 Vending Machine using Verilog HDL
+- FSM-based design implementing real-time vending logic
+- Supports multiple product selection and balance handling
+
+### 🔹 (Add any Python / DSA / Backend project here)
+- Brief 1–2 line description
+- Mention tech used
+
+---
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 🤝 Connect With Me
+- 💼 LinkedIn: https://www.linkedin.com/in/YOUR-LINK
+- 📧 Email: yourmail@gmail.com
+
+---
+
+⭐ *Always learning. Always building.*
