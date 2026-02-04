@@ -16,30 +16,20 @@ and exploring areas like **Backend Development, DSA, and Hardware-Software Desig
 ---
 
 ## 📌 Projects
-### 🔹 16-bit RISC Processor
-- Designed and implemented a custom RISC architecture using **Verilog HDL**
-- Focused on instruction execution, control unit, and datapath design
 
-### 🔹 Vending Machine using Verilog HDL
-- FSM-based design implementing real-time vending logic
-- Supports multiple product selection and balance handling
-
-### 🔹 (Add any Python / DSA / Backend project here)
-- Brief 1–2 line description
-- Mention tech used
 
 ---
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshith-coder&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshith-coder&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🤝 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/YOUR-LINK
-- 📧 Email: yourmail@gmail.com
+- 💼 LinkedIn: [https://www.linkedin.com/in/harshith-aluguri/]
+- 📧 Email: aluguriharshith0705@gmail.com
 
 ---
 
