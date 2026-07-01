@@ -23,14 +23,13 @@
 
 <br/><br/>
 
+![](https://komarev.com/ghpvc/?username=harshith-coder&label=Profile+Views&color=blueviolet&style=for-the-badge)
 
 <br/><br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=700&lines=Building+Intelligent+Software+%F0%9F%9A%80;AI+%E2%80%A2+Backend+%E2%80%A2+Full+Stack;LLM+Engineering+%E2%80%A2+Agentic+AI;Azure+AI+Engineer+Associate+%E2%98%81%EF%B8%8F;Always+Learning+%E2%80%A2+Always+Building" alt="Typing SVG"/>
 
 </div>
-
----
 
 ## 🧠 About Me
 
