@@ -1,30 +1,35 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Harshith%20Aluguri&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20AI%20%26%20LLM%20Developer%20%7C%20Full%20Stack%20Builder&descAlignY=55&descSize=16"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Harshith%20Aluguri&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20AI%20Developer%20%7C%20Full%20Stack%20Builder&descAlignY=55&descSize=16" />
 
 <a href="https://linkedin.com/in/harshith-aluguri">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:aluguriharshith0705@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://leetcode.com/u/aluguriharshith">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 <a href="https://www.geeksforgeeks.org/user/harshithcoder/">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
 </a>
 <a href="https://www.hackerrank.com/profile/harshith-coder">
-  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
 </a>
 <a href="https://github.com/harshith-coder">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=700&lines=Building+Intelligent+Software+%F0%9F%9A%80;AI+%E2%80%A2+Backend+%E2%80%A2+Full+Stack;LLM+Engineering+%E2%80%A2+Agentic+AI;Azure+AI+Engineer+Associate+%E2%98%81%EF%B8%8F;Always+Learning+%E2%80%A2+Always+Building" alt="Typing SVG"/>
+<br /><br />
+
+![](https://komarev.com/ghpvc/?username=harshith-coder&label=Profile+Views&color=blueviolet&style=for-the-badge)
+
+<br /><br />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=700&lines=Building+Intelligent+Software+%F0%9F%9A%80;AI+%E2%80%A2+Backend+%E2%80%A2+Full+Stack;LLM+Engineering+%E2%80%A2+Agentic+AI;Azure+AI+Engineer+Associate+%E2%98%81%EF%B8%8F;Always+Learning+%E2%80%A2+Always+Building)](https://git.io/typing-svg)
 
 </div>
-
 ## 🧠 About Me
 
 I’m **Harshith Aluguri**, a B.Tech CSE student specializing in AI/ML at SR University, Telangana. I enjoy building intelligent software that combines AI, scalable backend systems, and polished user experiences.
