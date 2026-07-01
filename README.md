@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Harshith%20Aluguri&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Patent%20Holder&descAlignY=55&descSize=16"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Harshith%20Aluguri&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20AI%20%26%20LLM%20Developer%20%7C%20Full%20Stack%20Builder&descAlignY=55&descSize=16"/>
 
 <a href="https://linkedin.com/in/harshith-aluguri">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -11,13 +11,23 @@
 <a href="https://leetcode.com/u/aluguriharshith">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
+<a href="https://www.geeksforgeeks.org/user/harshithcoder/">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+<a href="https://www.hackerrank.com/profile/harshith-coder">
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
 <a href="https://github.com/harshith-coder">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Building+Production+AI+Systems+%F0%9F%A4%96;Claude+API+%7C+RAG+%7C+LangChain+%7C+FastAPI;Published+Patent+Holder+%F0%9F%8F%9B%EF%B8%8F;Azure+AI+Engineer+Associate+%E2%98%81%EF%B8%8F;Open+to+AI%2FML+Internships+%F0%9F%9A%80" alt="Typing SVG"/>
+![](https://komarev.com/ghpvc/?username=harshith-coder&label=Profile+Views&color=blueviolet&style=for-the-badge)
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=700&lines=Building+Intelligent+Software+%F0%9F%9A%80;AI+%E2%80%A2+Backend+%E2%80%A2+Full+Stack;LLM+Engineering+%E2%80%A2+Agentic+AI;Azure+AI+Engineer+Associate+%E2%98%81%EF%B8%8F;Always+Learning+%E2%80%A2+Always+Building" alt="Typing SVG"/>
 
 </div>
 
@@ -25,49 +35,63 @@
 
 ## 🧠 About Me
 
-```python
-class HarshithAluguri:
-    def __init__(self):
-        self.name        = "Harshith Aluguri"
-        self.university  = "SR University, Telangana"
-        self.degree      = "B.Tech CSE (2023–2027)"
-        self.cgpa        = "9.19 / 10"
-        self.patent      = "IN 202541046947 — AI-Powered Smart PDF Editor"
-        self.certified   = ["Azure AI Engineer Associate",
-                            "Azure AI Fundamentals",
-                            "AWS Academy Cloud Foundations"]
-        self.focus       = ["Agentic AI Systems",
-                            "LLM Engineering & RAG",
-                            "Full Stack Development"]
-        self.tools       = ["Claude API", "Gemini API",
-                            "LangChain", "FastAPI", "Supabase"]
-        self.available   = True  # Open to remote internships!
+I’m **Harshith Aluguri**, a B.Tech CSE student specializing in AI/ML at SR University, Telangana. I enjoy building intelligent software that combines AI, scalable backend systems, and polished user experiences.
 
-    def say_hi(self):
-        print("I don't just study AI — I build and ship it in production.")
-```
+My work focuses on **LLM engineering, agentic AI systems, backend development, and full-stack product building**. I like taking ideas from prototype to production by designing APIs, integrating AI models, managing data flows, and deploying complete applications.
+
+I’m currently exploring opportunities where I can contribute as a **Software Engineer, AI Developer, or Full Stack Intern** while continuing to deepen my problem-solving and system design skills.
 
 ---
 
-## 🏆 Achievements & Certifications
+## 💻 Coding Profiles
 
 <div align="center">
 
-| 🏛️ Patent | ☁️ Azure | ☁️ AWS | ⭐ HackerRank |
-|-----------|----------|--------|--------------|
-| Published IN 202541046947 | AI Engineer Associate 2025 | Cloud Foundations 2024 | 5★ Python • Java • PS |
-
-| 🎓 CGPA | 🤖 Google AICTE | 🏆 Amazon HackOn | 🔥 BreakoutAI |
-|---------|-----------------|------------------|---------------|
-| 9.19/10 Top 20% | AI-ML Internship 2024 | Cleared Round 1 | Round 3 Finalist |
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/aluguriharshith)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/harshith-coder)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/harshithcoder/)
 
 </div>
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/aluguriharshith?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Stats Card"/>
+
+</div>
+
+---
+
+## 🌱 Currently Building
+
+- Production AI applications
+- Agentic AI workflows
+- Advanced React interfaces
+- Backend systems and APIs
+- Daily DSA and problem-solving consistency
+
+---
+
+## 🏆 Highlights
+
+- Published patent: **IN 202541046947 — AI-Powered Smart PDF Editor**
+- **Microsoft Certified: Azure AI Engineer Associate**
+- **Microsoft Certified: Azure AI Fundamentals**
+- **AWS Academy Cloud Foundations**
+- **Google AICTE AI/ML Internship**
+- **Cleared Amazon HackOn Round 1**
+- **CGPA: 9.19 / 10**
 
 ---
 
 ## 🛠️ Tech Stack
 
 <div align="center">
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 ### AI / LLM Engineering
 ![Claude API](https://img.shields.io/badge/Claude_API-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
@@ -77,13 +101,7 @@ class HarshithAluguri:
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-### Backend & APIs
+### Backend
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -94,19 +112,20 @@ class HarshithAluguri:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Databases
+### Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### Cloud & DevOps
+### Cloud
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+
+### Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
@@ -114,80 +133,112 @@ class HarshithAluguri:
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
 ### 🤖 ReceiptFlow — Agentic LLM Document Pipeline
 
-[![ReceiptFlow](https://img.shields.io/badge/View_APK-4285F4?style=for-the-badge&logo=android&logoColor=white)](https://expo.dev/accounts/nikhil18n/projects/receipt-flow/builds/a63b7af8-7c20-444d-8543-c0cc21ae89d4)
-![Status](https://img.shields.io/badge/Status-Production_Live-success?style=for-the-badge)
+ReceiptFlow is an AI-powered receipt and invoice processing platform that automates OCR, structured extraction, validation, and storage using Claude and Gemini APIs.
 
-</div>
+#### ✨ Key Features
+- Automated receipt and invoice ingestion workflow
+- OCR-powered text extraction with model-based fallback handling
+- Structured data extraction and validation
+- Real-time data storage and retrieval with Supabase
+- Built for production-oriented backend orchestration
 
-```
-🔧 Stack    : Node.js • FastAPI • Claude API • Gemini API • Supabase • Vercel
-🎯 Problem  : Manual document processing is slow and error-prone
-⚙️ Solution : Document ingestion → Gemini OCR → Claude structured extraction
-               → Real-time Supabase storage — fully automated
-📊 Result   : 100% automated extraction with fallback handling
-👤 My Role  : Owned entire backend + AI integration layer (2-member team)
-```
+#### 🛠 Tech Stack
+Node.js • FastAPI • Claude API • Gemini API • Supabase • Vercel
+
+#### 📈 Impact
+- Automated receipt processing workflow
+- Supports multiple receipt formats
+- Production-ready backend architecture
+- Real-time database integration
+
+#### 👨‍💻 My Contribution
+- Designed and implemented the backend architecture
+- Integrated Claude for structured extraction workflows
+- Integrated Gemini for OCR and document understanding
+- Managed database integration and data flow
+- Contributed to deployment and production readiness
+
+#### 🔗 Links
+- [Live Build / APK](https://expo.dev/accounts/nikhil18n/projects/receipt-flow/builds/a63b7af8-7c20-444d-8543-c0cc21ae89d4)
 
 ---
-
-<div align="center">
 
 ### ⚙️ WinAutoKit — Automation & Observability Toolkit
 
-[![WinAutoKit](https://img.shields.io/badge/GitHub_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harshith-coder/WinAutoKit)
-![Status](https://img.shields.io/badge/Status-Production_Deployed-success?style=for-the-badge)
+WinAutoKit is a production-oriented automation toolkit built to support reliable desktop workflow automation with traceability, audit logging, and test coverage.
 
-</div>
+#### ✨ Key Features
+- Async automation endpoints for controlled task execution
+- Multi-step orchestration for workflow automation
+- Audit trail storage for observability and traceability
+- Automated testing for reliability and maintainability
 
-```
-🔧 Stack    : Python • FastAPI • SQLite • pywinauto • pytest
-🎯 Problem  : Automation workflows need reliability + full observability
-⚙️ Solution : Async HTTP endpoints → multi-step orchestration
-               → SQLite audit trail → full pytest integration coverage
-📊 Result   : Production-grade automation with 100% test coverage
-👤 My Role  : Solo built, architected, and deployed
-```
+#### 🛠 Tech Stack
+Python • FastAPI • pywinauto • SQLite • pytest
+
+#### 📈 Impact
+- Improved observability across automation workflows
+- Better reliability through structured orchestration
+- Strong testing support for production readiness
+
+#### 👨‍💻 My Contribution
+- Built the project end-to-end as a solo developer
+- Architected the API layer and workflow design
+- Added logging, persistence, and testing support
+- Deployed and maintained the complete system
+
+#### 🔗 Links
+- [GitHub Repository](https://github.com/harshith-coder/WinAutoKit)
 
 ---
 
-<div align="center">
-
 ### 🛡️ SafeRoute — Real-Time Emergency Response Platform
 
-[![SafeRoute](https://img.shields.io/badge/Live_Demo-46E3B7?style=for-the-badge&logo=render&logoColor=white)](https://saferoute-v6pj.onrender.com)
-![Status](https://img.shields.io/badge/Status-Live_on_Render-success?style=for-the-badge)
+SafeRoute is a real-time emergency response platform designed to support SOS alerts, location sharing, and live coordination during urgent situations.
 
-</div>
+#### ✨ Key Features
+- Real-time SOS triggering and response flow
+- Live location tracking with Mapbox integration
+- Concurrent data updates with MongoDB
+- Deployment-ready full-stack architecture
 
-```
-🔧 Stack    : Node.js • MongoDB • Mapbox API • Render
-🎯 Problem  : Emergency SOS needs real-time location tracking
-⚙️ Solution : Real-time SOS dispatch → live Mapbox location sync
-               → concurrent MongoDB writes → zero downtime deployment
-📊 Result   : Production-live for real users
-👤 My Role  : Led full-stack development + end-to-end deployment
-```
+#### 🛠 Tech Stack
+Node.js • MongoDB • Mapbox API • Render
+
+#### 📈 Impact
+- Enabled live emergency coordination workflows
+- Supported real-time location synchronization
+- Delivered a deployment-ready real-time platform
+
+#### 👨‍💻 My Contribution
+- Led full-stack development across frontend and backend
+- Implemented real-time SOS and mapping workflows
+- Managed deployment and end-to-end integration
+
+#### 🔗 Links
+- [Live Demo](https://saferoute-v6pj.onrender.com)
 
 ---
 
 ## 💼 Experience
 
-<div align="center">
+### AI with Python Intern — Coincent  
+**Jun 2024 – Aug 2024 | Remote**
 
-| Period | Role | Company | Tech |
-|--------|------|---------|------|
-| Jun–Aug 2024 | AI with Python Intern | Coincent (Remote) | Python • OpenCV • SSD • Git |
-| Jan–Mar 2024 | Web Development Intern | Rinex Technologies | HTML • CSS • JS • React • Node.js |
+Worked on computer vision applications using Python and OpenCV, contributing to object detection and image-processing workflows while collaborating in a remote team environment.
 
-</div>
+### Web Development Intern — Rinex Technologies  
+**Jan 2024 – Mar 2024**
+
+Worked on frontend and web development tasks using HTML, CSS, JavaScript, React, and Node.js, contributing to responsive interfaces and practical full-stack development workflows.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
+
+My pinned repositories below showcase the projects that best represent my software engineering and AI development experience.
 
 <div align="center">
 
@@ -211,13 +262,33 @@ class HarshithAluguri:
 
 ---
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=harshith-coder&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/harshith-coder/harshith-coder/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
 ## 🤝 Let's Connect
 
 <div align="center">
 
-I am actively looking for **AI/ML and Full Stack internship opportunities.**
+I enjoy building intelligent software that combines AI, scalable backend systems, and great user experiences.
 
-💡 I build production AI systems — not just tutorials.
+I’m always open to collaboration, open-source contributions, and exciting opportunities.
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshith-aluguri)
 [![Email](https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aluguriharshith0705@gmail.com)
