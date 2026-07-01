@@ -47,9 +47,9 @@ I’m currently exploring opportunities where I can contribute as a **Software E
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/aluguriharshith)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/harshith-coder)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/harshithcoder/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Harshith-learner)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/aluguriharshith1)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/alugurihar5g88)
 
 </div>
 
@@ -79,7 +79,7 @@ I’m currently exploring opportunities where I can contribute as a **Software E
 - **AWS Academy Cloud Foundations**
 - **Google AICTE AI/ML Internship**
 - **Cleared Amazon HackOn Round 1**
-- **CGPA: 9.19 / 10**
+- **CGPA: 9.26 / 10**
 
 ---
 
@@ -262,25 +262,7 @@ My pinned repositories below showcase the projects that best represent my softwa
 
 ---
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=harshith-coder&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/harshith-coder/harshith-coder/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
 
 ## 🤝 Let's Connect
 
