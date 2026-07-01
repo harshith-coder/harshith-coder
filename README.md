@@ -23,7 +23,6 @@
 
 <br/><br/>
 
-![](https://komarev.com/ghpvc/?username=harshith-coder&label=Profile+Views&color=blueviolet&style=for-the-badge)
 
 <br/><br/>
 
@@ -53,12 +52,6 @@ I’m currently exploring opportunities where I can contribute as a **Software E
 
 </div>
 
-<div align="center">
-
-<img src="https://leetcard.jacoblin.cool/aluguriharshith?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Stats Card"/>
-
-</div>
-
 ---
 
 ## 🌱 Currently Building
@@ -73,14 +66,12 @@ I’m currently exploring opportunities where I can contribute as a **Software E
 
 ## 🏆 Highlights
 
-- Published patent: **IN 202541046947 — AI-Powered Smart PDF Editor**
 - **Microsoft Certified: Azure AI Engineer Associate**
 - **Microsoft Certified: Azure AI Fundamentals**
 - **AWS Academy Cloud Foundations**
 - **Google AICTE AI/ML Internship**
-- **Cleared Amazon HackOn Round 1**
 - **CGPA: 9.26 / 10**
-
+- Published patent: **IN 202541046947 — AI-Powered Smart PDF Editor**
 ---
 
 ## 🛠️ Tech Stack
