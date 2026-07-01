@@ -1,7 +1,7 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Harshith%20Aluguri&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20AI%20Developer%20%7C%20Full%20Stack%20Builder&descAlignY=55&descSize=16" />
-
+<br /><br />
 <a href="mailto:aluguriharshith0705@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
