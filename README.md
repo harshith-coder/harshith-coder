@@ -18,7 +18,7 @@
 ```python
 harshith = {
     "currently"  : "Final Year B.Tech CSE @ SR University (2027)",
-    "cgpa"       : "9.19 / 10",
+    "cgpa"       : "9.26 / 10",
     "focus"      : ["Agentic AI Systems", "LLM Engineering", 
                     "Full Stack Development"],
     "building"   : "Production AI pipelines using Claude API + RAG",
@@ -107,9 +107,8 @@ harshith = {
 | ☁️ **Azure AI Fundamentals** | Microsoft Certified — 2025 |
 | ☁️ **AWS Academy** | Cloud Foundations — 2024 |
 | ⭐ **HackerRank** | 5★ Problem Solving • 5★ Java • 5★ Python |
-| 🎓 **CGPA** | 9.19/10 — Top 20% of batch |
+| 🎓 **CGPA** | 9.26/10 — Top 20% of batch |
 | 🤖 **Google for Developers** | AI-ML Virtual Internship — AICTE EduSkills 2024 |
-| 🏆 **Amazon HackOn 6.0** | Cleared Round 1 |
 | 🔥 **BreakoutAI** | Advanced to Round 3 (Top 3% of applicants) |
 
 ---
@@ -128,9 +127,9 @@ harshith = {
 
 <div align="center">
 
-![Harshith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshith-coder&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshith-coder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshith-coder&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshith-coder&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 </div>
 
